@@ -1,0 +1,22 @@
+
+
+
+@import url("Components/card.css");
+@import url("Components/product.css");
+@import url("Components/tabs.css");
+@import url("Components/banner.css");
+
+body {
+    font-family: "Open Sans", "Helvetica", "sans-serif";
+    padding-bottom: 200px;
+    background-color: #f3f1f1; 
+}
+
+h1, h2, h3 {
+    font-family: "Montserrat", "sans-serif";
+}
+
+
+  
+
+
